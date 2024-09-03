@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! 🙋🏻‍♀️
+I'm Karolina, a Computer Science student at Silesian University of Technology. I'm passionate about coding and constantly working on personal projects to improve my skills. In my spare time, I enjoy staying active and exploring new technologies.👩🏻‍💻
+
 
 <!--
 **kSuska1/kSuska1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
